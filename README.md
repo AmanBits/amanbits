@@ -5,7 +5,6 @@
 ---
 
 
-
 ## 🌟 **About Me**
  
 - 💻 Building scalable web applications with modern tech stacks  
@@ -25,10 +24,10 @@
 ## 🚀 **Highlighted Projects**
 
 ### 🌐 **[SocialConnect](https://github.com/amanbits/socialconnect)**  
-![SocialConnect Demo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=socialconnect&theme=radical)
+![SocialConnect Demo](https://github-readme-stats.vercel.app/api/pin/?username=amanbits&repo=socialconnect&theme=radical)
 
 ### 🎵 **[MusicPod](https://github.com/amanbits/musicpod)**  
-![MusicPod Demo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=musicpod&theme=radical)
+![MusicPod Demo](https://github-readme-stats.vercel.app/api/pin/?username=amanbits&repo=musicpod&theme=radical)
 
 ---
 
