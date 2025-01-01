@@ -5,8 +5,7 @@
 ---
 
 ## 🌟 **About Me**
-
-- 🎓 MCA Graduate (Batch 2021-2023)  
+ 
 - 💻 Building scalable web applications with modern tech stacks  
 - 🚀 Passionate about Open Source and Creative Projects  
 - 🌱 Currently learning **Spring Framework** and **Hibernate**  
@@ -16,7 +15,7 @@
 ## 🛠️ **Skills & Tools**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,docker,git,hibernate" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,spring,docker,git,hibernate" alt="Skills" />
 </div>
 
 ---
