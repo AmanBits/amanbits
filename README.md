@@ -7,9 +7,9 @@
 
 ## 🌟 **About Me**
  
-- 💻 Building scalable web applications with modern tech stacks  
-- 🚀 Passionate about Open Source and Creative Projects  
-- 🌱 Currently learning **Spring Framework** and **Hibernate**  
+- 💻 Expertise: Java, React, Node.js, Spring, and more
+- 🚀 Building scalable web applications and creative projects
+- 🌱 Currently learning: **Spring Boot** and **Hibernate**
 
 ---
 
