@@ -21,6 +21,14 @@
 
 ---
 
+## 📈 **LeetCode Stats**
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/AmanBits?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
 ## 📊 **GitHub Stats**
 
 <div align="center">
