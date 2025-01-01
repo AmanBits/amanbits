@@ -27,6 +27,13 @@
   <img src="https://leetcard.jacoblin.cool/AmanBits?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
 </div>
 
+## 📈 **HackerRank Stats**
+
+<div align="center">
+  <img src="https://img.shields.io/hackerrank/AmanBits?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank Stats" />
+</div>
+
+
 ---
 
 ## 📊 **GitHub Stats**
