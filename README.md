@@ -1,57 +1,77 @@
 # 👋 Hi, I'm Mohammad Aman!
 
-🌟 **Freelance Web Developer | MERN Stack Enthusiast | Tech Explorer**  
-Welcome to my GitHub portfolio! I'm passionate about creating impactful web solutions, exploring emerging technologies, and contributing to open-source projects.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75800&center=true&vCenter=true&width=440&lines=Freelance+Web+Developer;Full+Stack+Developer;Tech+Explorer;Open+to+Collaboration!)
 
 ---
 
 ## 🌟 **About Me**
 
-- 💻 Expertise: Java, React, Node.js, MongoDB, and more
-- 🚀 Building scalable web applications and creative projects
-- 🌱 Currently learning: **Spring Framework** and **Hibernate**
+- 🎓 MCA Graduate (Batch 2021-2023)  
+- 💻 Building scalable web applications with modern tech stacks  
+- 🚀 Passionate about Open Source and Creative Projects  
+- 🌱 Currently learning **Spring Framework** and **Hibernate**  
 
 ---
 
 ## 🛠️ **Skills & Tools**
 
-| Languages         | Frameworks & Libraries  | Tools & Platforms         |
-|--------------------|--------------------------|----------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,docker,git,hibernate" alt="Skills" />
+</div>
 
 ---
 
 ## 🚀 **Highlighted Projects**
-### 🌐 **[SocialConnect](https://github.com/yourusername/socialconnect)**
-- **Description:** A scalable social network app with real-time features
-- **Tech Stack:** Java, Spring Boot, React, MongoDB
-- 📌 [View Project](https://github.com/yourusername/socialconnect)
 
-### 🎵 **[MusicPod](https://github.com/yourusername/musicpod)**
-- **Description:** A podcast streaming app without third-party APIs
-- **Tech Stack:** Java, React Native
-- 📌 [View Project](https://github.com/yourusername/musicpod)
+### 🌐 **[SocialConnect](https://github.com/yourusername/socialconnect)**  
+![SocialConnect Demo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=socialconnect&theme=radical)
+
+### 🎵 **[MusicPod](https://github.com/yourusername/musicpod)**  
+![MusicPod Demo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=musicpod&theme=radical)
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+## 🏆 **Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
 ---
 
-## 🎉 **Fun Fact**
-"I debug, therefore I am."
+## 📫 **Let's Connect**
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-## 💡 **Let's Collaborate!**
-If you have an exciting project or idea, feel free to reach out. Let’s build something amazing together!
+## 🎉 **Fun Element**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBP2pR3vAEXFgNa/giphy.gif" width="200" alt="Coding gif" />
+</div>
+
+"Debugging is like being the detective in a crime movie where you are also the murderer." 🕵️‍♂️
+
+---
+
+## 💡 **Let’s Build Together!**
+
+Feel free to reach out if you have an exciting project idea. Let’s create something amazing! 🚀
