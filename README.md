@@ -22,10 +22,10 @@
 
 ## 🚀 **Highlighted Projects**
 
-### 🌐 **[SocialConnect](https://github.com/yourusername/socialconnect)**  
+### 🌐 **[SocialConnect](https://github.com/amanbits/socialconnect)**  
 ![SocialConnect Demo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=socialconnect&theme=radical)
 
-### 🎵 **[MusicPod](https://github.com/yourusername/musicpod)**  
+### 🎵 **[MusicPod](https://github.com/amanbits/musicpod)**  
 ![MusicPod Demo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=musicpod&theme=radical)
 
 ---
@@ -33,9 +33,9 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanbits&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanbits&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanbits&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ## 🏆 **Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amanbits&theme=dracula&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
