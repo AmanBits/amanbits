@@ -4,6 +4,8 @@
 
 ---
 
+<div align="center"> <img src="https://leetcard.jacoblin.cool/amanbits?ext=heatmap" alt="LeetCode Stats" /> </div>
+
 ## 🌟 **About Me**
  
 - 💻 Building scalable web applications with modern tech stacks  
