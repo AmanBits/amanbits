@@ -1,5 +1,4 @@
-# ![Hello GIF](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif) **Hi, I'm Mohammad Aman!**
-
+# ![Hello Hand Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) **Hi, I'm Mohammad Aman!**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75800&center=true&vCenter=true&width=440&lines=Freelance+Web+Developer;Full+Stack+Developer;Tech+Explorer;Open+to+Collaboration!)
 
