@@ -27,8 +27,8 @@
   <img src="https://leetcard.jacoblin.cool/AmanBits?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
 </div>
 
-- 🔥 **Current Streak:** 23 days  
-- 🏆 **Longest Streak:** 23 days  
+- 🔥 **Current Streak:** 25 days  
+- 🏆 **Longest Streak:** 25 days  
 
 ---
 
