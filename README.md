@@ -24,7 +24,7 @@
 ## 📈 **LeetCode Stats**
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AmanBits?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/iamaman1_?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
 </div>
 
 - 🔥 **Current Streak:** 76 days  
